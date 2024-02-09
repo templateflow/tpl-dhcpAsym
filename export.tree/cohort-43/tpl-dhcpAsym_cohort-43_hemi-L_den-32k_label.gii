@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GIFTI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="http://brainvis.wustl.edu/caret6/xml_schemas/GIFTI_Caret.xsd"
+       Version="1"
+       NumberOfDataArrays="1">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[AnatomicalStructurePrimary]]></Name>
+         <Value><![CDATA[CortexLeft]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[ProgramProvenance]]></Name>
+         <Value><![CDATA[Connectome Workbench
+Type: Command Line Application
+Version: 1.2.3
+Qt Compiled Version: 4.8.5
+Qt Runtime Version: 4.8.7
+Commit: c170db0277de04cb8a5c04fdf96e45adcda47d6d
+Commit Date: 2016-08-23 19:08:10 -0500
+Compiled with OpenMP: YES
+Compiler: c++ (/usr/bin)
+Compiler Version: 
+Compiled Debug: NO
+Operating System: Linux
+]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Provenance]]></Name>
+         <Value><![CDATA[/vol/medic01/users/jbozek/workbench/exe_linux64/wb_command -metric-label-import atlas-labels/43.L.Labels.shape.gii segAllLut.txt atlas-labels/43.L.label.gii -drop-unused-labels]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[WorkingDirectory]]></Name>
+         <Value><![CDATA[/vol/medic01/users/jbozek/scripts_affine_Conte/copied-labels-all-scripts]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable>
+      <Label Key="0" Red="1" Green="1" Blue="1" Alpha="0"><![CDATA[???]]></Label>
+      <Label Key="1" Red="0.27451" Green="0.0784314" Blue="0.666667" Alpha="1"><![CDATA[L_Anterior_temporal_lobe_medial]]></Label>
+      <Label Key="3" Red="0.862745" Green="0.235294" Blue="0.862745" Alpha="1"><![CDATA[L_Anterior_temporal_lobe_lateral]]></Label>
+      <Label Key="5" Red="0.254902" Green="0.392157" Blue="0.0784314" Alpha="1"><![CDATA[L_Gyri_parahippocampalis_et_ambiens_anterior]]></Label>
+      <Label Key="7" Red="0.54902" Green="0.862745" Blue="0.862745" Alpha="1"><![CDATA[L_Superior_temporal_gyrus_middle]]></Label>
+      <Label Key="9" Red="0.862745" Green="0.862745" Blue="0.392157" Alpha="1"><![CDATA[L_Medial_and_inferior_temporal_gyri_anterior]]></Label>
+      <Label Key="11" Red="0.235294" Green="0.0784314" Blue="0.54902" Alpha="1"><![CDATA[L_Lateral_occipitotemporal_gyrus_gyrus_fusiformis_anterior]]></Label>
+      <Label Key="14" Red="1" Green="0.752941" Blue="0.12549" Alpha="1"><![CDATA[L_Insula]]></Label>
+      <Label Key="16" Red="0.0784314" Green="0.117647" Blue="0.54902" Alpha="1"><![CDATA[L_Occipital_lobe]]></Label>
+      <Label Key="18" Red="0.921569" Green="0.137255" Blue="0.764706" Alpha="1"><![CDATA[L_Gyri_parahippocampalis_et_ambiens_posterior]]></Label>
+      <Label Key="20" Red="0.0196078" Green="0.137255" Blue="0.45098" Alpha="1"><![CDATA[L_Lateral_occipitotemporal_gyrus_gyrus_fusiformis_posterior]]></Label>
+      <Label Key="22" Red="0.627451" Green="0.392157" Blue="0.196078" Alpha="1"><![CDATA[L_Medial_and_inferior_temporal_gyri_posterior]]></Label>
+      <Label Key="24" Red="0.87451" Green="0.862745" Blue="0.235294" Alpha="1"><![CDATA[L_Superior_temporal_gyrus_posterior]]></Label>
+      <Label Key="26" Red="0.490196" Green="0.392157" Blue="0.627451" Alpha="1"><![CDATA[L_Cingulate_gyrus_anterior]]></Label>
+      <Label Key="28" Red="0.862745" Green="0.705882" Blue="0.862745" Alpha="1"><![CDATA[L_Cingulate_gyrus_posterior]]></Label>
+      <Label Key="30" Red="0.294118" Green="0.196078" Blue="0.490196" Alpha="1"><![CDATA[L_Frontal_lobe]]></Label>
+      <Label Key="32" Red="0.0784314" Green="0.705882" Blue="0.54902" Alpha="1"><![CDATA[L_Parietal_lobe]]></Label>
+   </LabelTable>
+<DataArray Intent="NIFTI_INTENT_LABEL"
+           DataType="NIFTI_TYPE_INT32"
+           ArrayIndexingOrder="RowMajorOrder"
+           Dimensionality="1"
+           Dim0="32492"
+           Encoding="GZipBase64Binary"
+           Endian="LittleEndian"
+           ExternalFileName=""
+           ExternalFileOffset="0">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[L_Labels]]></Value>
+      </MD>
+   </MetaData>
+   <Data>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</Data>
+</DataArray>
+</GIFTI>
