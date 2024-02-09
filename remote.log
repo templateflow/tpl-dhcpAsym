@@ -1,0 +1,1 @@
+505d13e3-0b15-4d78-83aa-9ebd49b3f0b9 autoenable=true bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-dhcpAsym/ host=s3.amazonaws.com name=s3 port=80 public=yes publicurl=https://templateflow.s3.amazonaws.com/ storageclass=STANDARD type=S3 versioning=yes timestamp=1707510959s
