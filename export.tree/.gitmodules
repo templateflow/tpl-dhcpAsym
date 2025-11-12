@@ -1,0 +1,41 @@
+[submodule "tpl-MNI152NLin2009cAsym"]
+	path = tpl-MNI152NLin2009cAsym
+	url = https://github.com/templateflow/tpl-MNI152NLin2009cAsym
+[submodule "tpl-MNI152Lin"]
+	path = tpl-MNI152Lin
+	url = https://github.com/templateflow/tpl-MNI152Lin
+[submodule "tpl-NKI"]
+	path = tpl-NKI
+	url = https://github.com/templateflow/tpl-NKI
+[submodule "tpl-PNC"]
+	path = tpl-PNC
+	url = https://github.com/templateflow/tpl-PNC
+[submodule "tpl-OASIS30ANTs"]
+	path = tpl-OASIS30ANTs
+	url = https://github.com/templateflow/tpl-OASIS30ANTs
+[submodule "tpl-fsaverage"]
+	path = tpl-fsaverage
+	url = https://github.com/templateflow/tpl-fsaverage
+[submodule "tpl-fsLR"]
+	path = tpl-fsLR
+	url = https://github.com/templateflow/tpl-fsLR
+[submodule "tpl-MNI152NLin6Asym"]
+	path = tpl-MNI152NLin6Asym
+	url = https://github.com/templateflow/tpl-MNI152NLin6Asym
+[submodule "tpl-MNI152NLin6Sym"]
+	path = tpl-MNI152NLin6Sym
+	url = https://github.com/templateflow/tpl-MNI152NLin6Sym
+[submodule "tpl-MNIPediatricAsym"]
+	path = tpl-MNIPediatricAsym
+	url = https://github.com/templateflow/tpl-MNIPediatricAsym
+[submodule "tpl-MNIInfant"]
+	path = tpl-MNIInfant
+	url = https://github.com/templateflow/tpl-MNIInfant
+[submodule "tpl-UNCInfant"]
+	path = tpl-UNCInfant
+	url = https://github.com/templateflow/tpl-UNCInfant
+[submodule "tpl-WHS"]
+	path = tpl-WHS
+	url = https://github.com/templateflow/tpl-WHS
+	branch = master
+	datalad-id = 1633db3a-5db1-11ea-92da-64006a8a730f
